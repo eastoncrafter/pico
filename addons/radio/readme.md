@@ -1,0 +1,1 @@
+The nrf24l01 radio module possibly could be used with the pico. This example code was found. Use with either circuit python or micropython (TBD)
